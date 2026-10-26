@@ -1,0 +1,8 @@
+Local Clink prototype build receipt
+source=source/rime-ice/cn_dicts/base.dict.yaml
+source_sha256=0418d5103d8e40c8fff4b686a873ad03e9836cd0419ecae0b7e1e2526312dba0
+source_rows_parsed=543118
+unique_words=542039
+cime_readings_requested=nihao,pinyin,wusongpinyin,zhongguo,zhongwen
+cime_rows_emitted=5
+derived_assets_license=GPL-3.0-only (per Rime-Ice upstream)
